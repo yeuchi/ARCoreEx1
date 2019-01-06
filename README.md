@@ -6,7 +6,7 @@ Project follows the tutorial from https://developers.google.com/ar/develop/java/
 <img width="450" src="https://user-images.githubusercontent.com/1282659/50740812-0b23de00-11ba-11e9-8502-d13d2d949605.png">
 <img width="450" src="https://user-images.githubusercontent.com/1282659/50740813-0c550b00-11ba-11e9-8795-67617d109578.png">
 
-Meetup instructions
+Meetup instructions (Oct 2, 2018)
 https://www.meetup.com/gdg-tc/events/254711935/
 
 1) Bring a laptop
